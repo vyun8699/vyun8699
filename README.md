@@ -3,7 +3,7 @@
 
 <div style="border: 1px solid #ccc; padding: 10px;">
 <b>Welcome to my GitHub profile!</b>
-
+<br>
 <br>
 I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. I took the Master's in Data Science program at USYD to explore different problem sets in analytics and machine learning. My unique background allows me to bridge the gap between business needs and technical solutions, effectively managing stakeholders while delivering data-driven insights. I'm passionate about leveraging my diverse skill set to tackle complex challenges and drive innovation in the field of data science. 
 </br>
@@ -29,9 +29,8 @@ Have any questions? Below is my contact information:
 ## 🌾 Production optimization for an Australian commodity producer
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
-![Static Badge](https://img.shields.io/badge/breadth_first_search-blue)
-![Static Badge](https://img.shields.io/badge/MILP-red)
-
+![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
+![Static Badge](https://img.shields.io/badge/MILP-grey)
 
 <details>
 <summary> Expand for details
@@ -49,11 +48,11 @@ Have any questions? Below is my contact information:
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/YOLO-blue)
-![Static Badge](https://img.shields.io/badge/SSD-blue)
-![Static Badge](https://img.shields.io/badge/FRCNN-blue)
-![Static Badge](https://img.shields.io/badge/SAM-blue)
-![Static Badge](https://img.shields.io/badge/Edge_hardware-yellow)
+![Static Badge](https://img.shields.io/badge/YOLO-grey)
+![Static Badge](https://img.shields.io/badge/SSD-grey)
+![Static Badge](https://img.shields.io/badge/FRCNN-grey)
+![Static Badge](https://img.shields.io/badge/SAM-grey)
+![Static Badge](https://img.shields.io/badge/Edge_hardware-white)
 
 
 <details>
@@ -74,10 +73,10 @@ Have any questions? Below is my contact information:
 ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GoogLeNet-blue)
-![Static Badge](https://img.shields.io/badge/ResNext-blue)
-![Static Badge](https://img.shields.io/badge/Shufflenet-blue)
-![Static Badge](https://img.shields.io/badge/Efficientnet-blue)
+![Static Badge](https://img.shields.io/badge/GoogLeNet-grey)
+![Static Badge](https://img.shields.io/badge/ResNext-grey)
+![Static Badge](https://img.shields.io/badge/Shufflenet-grey)
+![Static Badge](https://img.shields.io/badge/Efficientnet-grey)
 
 <details>
 <summary> Expand for details
@@ -105,8 +104,8 @@ Have any questions? Below is my contact information:
 
 ## ♾️ Multi-layer perceptron from scratch
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MLP-orange)
-![Static Badge](https://img.shields.io/badge/Numpy-blue)
+![Static Badge](https://img.shields.io/badge/MLP-grey)
+![Static Badge](https://img.shields.io/badge/Numpy-grey)
 
 <details>
 <summary> Expand for details
@@ -121,15 +120,25 @@ Have any questions? Below is my contact information:
 <li> Methods: batch training, early stopping, weight decay, dropout, momentum, batch normalization, adam. </li> </ol> 
 </br>
 
+<b> Reflection </b>: I am a firm believer of the iterative process. This project was built in multiple stages where different methods were explored and the best configuration was implemented into the core build. The iterative process is useful in exploring builds efficiently while maintaining explainability. 
+
+<p align="center">
+  <img src="assets/MLP_appendix.png" height ="300">
+  <br>
+  Experiment stages in the MLP from scratch project.   
+  <br>Methods in blue are tested while keeping all else constant.
+</p>
+
+
 </details>
 
 ## 🏦 Understanding debtor profiles
 ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Random_Forest-orange)
-![Static Badge](https://img.shields.io/badge/Logistic_Regression-orange)
-![Static Badge](https://img.shields.io/badge/LDA-orange)
-![Static Badge](https://img.shields.io/badge/AdaBoost-orange)
-![Static Badge](https://img.shields.io/badge/SVM-orange)
+![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
+![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey)
+![Static Badge](https://img.shields.io/badge/LDA-grey)
+![Static Badge](https://img.shields.io/badge/AdaBoost-grey)
+![Static Badge](https://img.shields.io/badge/SVM-grey)
 
 <details>
 <summary> Expand for details
@@ -144,14 +153,20 @@ Have any questions? Below is my contact information:
 <li> Data exploration and pre-processing: cross-correlation and data distribution are analyzed to allow for fair analysis. We removed cross-correlated features and any features that would leak forward-looking information. We applied SMOTE to alleviate data imbalance. </li>
 <li> Pre-processing: principal component analysis, min-max scaling, one-hote-encoding, SMOTE. </li>
 <li> Classification methods: 5 techniques were applied to find a method with <mark>high True Positives</mark> and <mark> Low False Positives & Negatives </mark></li>
-<li> Result: random forest was superior as measured by Precision and Sensitivity. 
+<li> Results: random forest was superior as measured by Precision and Sensitivity. 
 </ol> 
 </br>
 
 <p align="center">
   <img src="assets/R_output.png" height ="150">
   <br>
- Result of Comparison
+ Comparison scores
+</p>
+
+<p align="center">
+  <img src="assets/R_RFoutput.png" height ="250">
+  <br>
+Top-10 most important features based on Random Forest
 </p>
 
 </details>
