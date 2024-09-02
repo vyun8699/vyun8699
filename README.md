@@ -8,6 +8,11 @@
 I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. I took the Master's in Data Science program at USYD to explore different problem sets in analytics and machine learning. My unique background allows me to bridge the gap between business needs and technical solutions, effectively managing stakeholders while delivering data-driven insights. I'm passionate about leveraging my diverse skill set to tackle complex challenges and drive innovation in the field of data science. 
 </br>
 
+<br><b> What I'm working on right now </b>: 
+- [Production optimization for a commodity producer](#-production-optimization-for-an-australian-commodity-producer)
+- [Small object detection system for a drone company](#-small-object-detection-model-for-an-australian-drone-company)
+- Template of customizable RAG framework to be fully hosted on GCP
+
 <br> My latest CV can be accessed here: <a href="assets/Resume_Vincent_Yunansan.pdf"> Curriculum Vitae</a> </br>
 
 
@@ -22,10 +27,10 @@ Have any questions? Below is my contact information:
 # Project Showcase
 
 ## 🌾 Production optimization for an Australian commodity producer
-![Static Badge](https://img.shields.io/badge/Python-green)
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-blue)
 ![Static Badge](https://img.shields.io/badge/MILP-red)
-![Static Badge](https://img.shields.io/badge/GCP-yellow)
 
 
 <details>
@@ -41,8 +46,9 @@ Have any questions? Below is my contact information:
 </details>
 
 ## 🚁 Small object detection model for an Australian drone company
-![Static Badge](https://img.shields.io/badge/Python-green)
-![Static Badge](https://img.shields.io/badge/Pytorch-orange)
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/YOLO-blue)
 ![Static Badge](https://img.shields.io/badge/SSD-blue)
 ![Static Badge](https://img.shields.io/badge/FRCNN-blue)
@@ -57,12 +63,95 @@ Have any questions? Below is my contact information:
 <br> <b> Problem </b>: This project aims to implement an automated object detection system able to detect small distant object in outdoor conditions, to be installed on a small computer on-board the vehicle.</br>
 <br><b> This project is on-going. The solution can be divided into three branches </b>:   
 <ol> 
-<li> </b> Custom dataset</b> built on open-source datasets which has significant sample of small objects of interest. </li>
-<li> </b> Optimized model</b> from multiple computer vision model architectures, including YOLO, Faster RCNN, SSD, and SAM. </li>
-<li> </b> Hardware implementation </b> where the chosen model has to be able to infer rapidly on-board the vehicle. </li>
-</br> 
+<li> Custom dataset: built on open-source datasets which has significant sample of small objects of interest. </li>
+<li> Optimized model: from multiple computer vision model architectures, including YOLO, Faster RCNN, SSD, and SAM. </li>
+<li> Hardware implementation: the chosen model has to be able to infer rapidly on-board the vehicle. </li> </ol> 
+</details>
 
 
+## 🛰 Multi-class object classification via transfer learning
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GoogLeNet-blue)
+![Static Badge](https://img.shields.io/badge/ResNext-blue)
+![Static Badge](https://img.shields.io/badge/Shufflenet-blue)
+![Static Badge](https://img.shields.io/badge/Efficientnet-blue)
+
+<details>
+<summary> Expand for details
+</summary>
+<br> <i> <font color = "grey">Details of this project can be accessed <a href="https://github.com/vyun8699/CNN-via-transfer-learning"> here</a> </font> </i></br>
+
+<br> <b> Problem </b>: Training a model from scratch requires massive computational resources not accessible to the common enthusiast. This project showcases methods to access open-source models and fine-tune them to solve a multi-class classification problem. </br>
+<br><b> Solution & Implementation </b>:   
+<ol> 
+<li> Dataset: 30,000 images with 18 classes are split into train and validation sets. </li>
+<li> Dataloader: images are loaded in batches to avoid bottlenecking. Transformations applied to increase model robustness. 
+<li> Models: pre-trained models from Pytorch are customized to handle multi-class classification. Various methods are applied to aid training speeds and scores. Tableau is used to visualize training statistics.</li>
+<li> Performance: micro F1, model size and training runtime are considered together to recommend the best system. </li>
+<li> Results: The best model yielded 90%+ test F1 score with 5-hour training run-time. </ol> 
+
+<b> Reflection </b>: computers do not perceive image data as humans do. The images below shows how an image of a cat travels through the layers in RegNet. We can see how the model is able to differentiate features of our object of interest (e.g. the cat) against the surrounding environment. 
+
+<p align="center">
+  <img src="assets/regnetfeaturemap.png" height ="500">
+  <br>
+  Sample Feature Map Representation of RegNet
+</p>
 
 </details>
 
+## ♾️ Multi-layer perceptron from scratch
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MLP-orange)
+![Static Badge](https://img.shields.io/badge/Numpy-blue)
+
+<details>
+<summary> Expand for details
+</summary>
+<br> <i> <font color = "grey">Details of this project can be accessed <a href="https://github.com/vyun8699/MLP-from-scratch"> here</a> </font> </i></br>
+
+<br> <b> Problem </b>: The goal of this project is to implement a neural network without the use of modern machine learning libraries. By doing so, we will showcase the effects of different methods/components to the overall quality of our MLP model on the provided dataset.</br>
+<br><b> This project is implemented in Numpy to show how modern machine learning framework ingests data. The system is divided into several steps </b>:   
+<ol> 
+<li> Pre-processing: input is normalized for better ingestion by the MLP and split into train-validation-test sets. </li>
+<li> Base architecture: the MLP is implemented in 3 classes for code hygiene. </li>
+<li> Methods: batch training, early stopping, weight decay, dropout, momentum, batch normalization, adam. </li> </ol> 
+</br>
+
+</details>
+
+## 🏦 Understanding debtor profiles
+![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Random_Forest-orange)
+![Static Badge](https://img.shields.io/badge/Logistic_Regression-orange)
+![Static Badge](https://img.shields.io/badge/LDA-orange)
+![Static Badge](https://img.shields.io/badge/AdaBoost-orange)
+![Static Badge](https://img.shields.io/badge/SVM-orange)
+
+<details>
+<summary> Expand for details
+</summary>
+<br> <i> <font color = "grey">Report for this project can be accessed <a href="https://vyun8699.github.io/"> here</a> </font> </i></br>
+
+<br> <b> Problem </b>: Understanding relationships between factors in demographic data is equally as important to having access to them in the first place. This project displays how bad debtors can be identified from application data by using different machine learning methods.</br>
+<br> <b> Side note </b>: This analysis is done on a public dataset hosted on Kaggle. Many submissions on the platform claims 99% accuracy but most of them suffer from data leaks and cross correlation. This happens when the analyst does not do proper data exploration and implemented lines of code onto the problem.</br>
+
+<br><b> This project is implemented in R Studio and follows the following steps </b>:   
+<ol> 
+<li> Data exploration and pre-processing: cross-correlation and data distribution are analyzed to allow for fair analysis. We removed cross-correlated features and any features that would leak forward-looking information. We applied SMOTE to alleviate data imbalance. </li>
+<li> Pre-processing: principal component analysis, min-max scaling, one-hote-encoding, SMOTE. </li>
+<li> Classification methods: 5 techniques were applied to find a method with <mark>high True Positives</mark> and <mark> Low False Positives & Negatives </mark></li>
+<li> Result: random forest was superior as measured by Precision and Sensitivity. 
+</ol> 
+</br>
+
+<p align="center">
+  <img src="assets/R_output.png" height ="150">
+  <br>
+ Result of Comparison
+</p>
+
+</details>
