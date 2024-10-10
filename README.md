@@ -134,6 +134,65 @@ Have any questions? Below is my contact information:
 
 </details>
 
+## 🩸Image Classification with BloodMNIST dataset
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white)
+![Static Badge](https://img.shields.io/badge/FCNN-grey)
+![Static Badge](https://img.shields.io/badge/CNN-grey)
+![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
+![Static Badge](https://img.shields.io/badge/SVM-grey)
+
+<details>
+<summary> Expand for details
+</summary>
+<br> <i> <font color = "grey">Report and workbook for this project can be accessed <a href="https://github.com/vyun8699/BloodMNIST_classification"> here</a> </font> </i></br>
+
+<br> <b> Problem </b>: This study compares four machine learning methods in blood cell image classification. The methods are compared by their overall speed, performance scores, and error rates. 
+
+<br> <b> Dataset </b>: 17,000+ images of blood cells, resized to 28x28 pixels for efficiency. The images are split into 8 classes as shown below:
+
+<p align="center">
+  <img src="assets/BloodMNIST_class.png" height ="500">
+  <br>
+  Description of classes in BloodMNIST   
+  <br>
+</p>
+
+<br> <b> Pre-processing </b>: Different pre-processing steps are applied to each method as appropriate. Please see report for details.
+
+
+<p align="center">
+  <img src="assets/BloodMNIST_preprop.png" height ="350">
+  <br>
+  Pre-processing steps for each method   
+  <br>
+</p>
+
+<br> <b> Methods </b>: Different parameters are tuned for each method, including number of neurons, activation function, learning rate, optimizer, regularizer, etc. Please see report for details. 
+
+
+<br> <b> Results </b>: Best configuration for each method shown below, along with their class-specific scores. Convolutionary Neural Network (CNN) performs best amongst methods considered. 
+
+
+
+
+<p align="center">
+  <img src="assets/BloodMNIST_result.png" height ="300">
+  <br>
+  Tuning results
+  <br>
+</p>
+
+
+<b> Reflection </b>: Each algorithm has different use cases and trade-offs which should be considered. The choice of algorithm must be matched with the goal of the exercise itself. More complex algorithm may take longer to run and may not provide the best explanation/reasoning on feature importance.  Users need to consider what output needs to be generated to (i) measure the quality of the model, and (ii) provide useful insights when designing a model protocol. Simpler models may provide adequate outputs with lower computational costs (e.g., shorter runtimes) given the right
+pre-processing and design.
+
+
+
+
+
+</details>
+
 ## 🏦 Understanding debtor profiles
 ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
