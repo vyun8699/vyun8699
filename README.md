@@ -9,10 +9,8 @@ I'm a former investment banking and private equity professional with over 7 year
 </br>
 
 <br><b> What I'm working on right now </b>: 
-- [Production optimization for a commodity producer](#-production-optimization-for-an-australian-commodity-producer)
+- No-code Exploratory Data Analysis
 - [Small object detection system for a drone company](#-small-object-detection-model-for-an-australian-drone-company)
-- Non-negative Matrix Factorization for image reconstruction   
-(coincidentally, Netflix' foundational recommendation system uses the same technique)
 - Template of customizable RAG framework to be fully hosted on GCP
 
 <br> My latest CV can be accessed here: <a href="assets/Resume_Vincent_Yunansan.pdf"> Curriculum Vitae</a> </br>
