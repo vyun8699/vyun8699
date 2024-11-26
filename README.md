@@ -45,17 +45,9 @@ Have any questions? Below is my contact information:
 
 </br>
 
-<p align="center">
-  <video width="560" height="360" controls>
-    <source src="assets/EDA_sample.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  WIP view of the no-code EDA platform   
-  <br>
-</p>
 
-![WIP view of the no-code EDA platform   ](https://youtu.be/-SRmdLSMb04)
+
+[![WIP view of the no-code EDA platform](https://img.youtube.com/vi/-SRmdLSMb04/maxresdefault.jpg)](https://youtu.be/-SRmdLSMb04)
 
 </details>
 
