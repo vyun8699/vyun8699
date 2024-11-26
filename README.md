@@ -45,8 +45,12 @@ Have any questions? Below is my contact information:
 
 </br>
 
+
+
 <p align="center">
-  <video src="assets/EDA_sample.mov" width="560" height="360" controls>
+  <video width="320" height="240" controls>
+    <source src="assets/EDA_sample.mov" type="video/quicktime">
+    Your browser does not support the video tag.
   </video>
   <br>
   WIP view of the no-code EDA platform   
