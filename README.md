@@ -55,9 +55,7 @@ Have any questions? Below is my contact information:
   <br>
 </p>
 
-https://user-images.githubysercontent.com/vyun8699/assets/EDA-sample.mov
-
-
+![WIP view of the no-code EDA platform   ](https://youtu.be/-SRmdLSMb04)
 
 </details>
 
