@@ -2,15 +2,19 @@
 <div style="text-align: justify;">
 
 <div style="border: 1px solid #ccc; padding: 10px;">
-<b>Welcome to my GitHub profile!</b>
+<b>Hi there!</b>
 <br>
 <br>
-I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. I took the Master's in Data Science program at USYD to explore different problem sets in analytics and machine learning. My unique background allows me to bridge the gap between business needs and technical solutions, effectively managing stakeholders while delivering data-driven insights. I'm passionate about leveraging my diverse skill set to tackle complex challenges and drive innovation in the field of data science. 
+I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. 
+I took the Master's in Data Science program at USYD as a career break to explore different problem sets in analytics and machine learning. 
+</br>
+  <br>
+I am most interested in building repeatable/scalable solutions to process large amounts of data and create simple solutions. 
 </br>
 
 <br><b> What I'm working on right now </b>: 
-- No-code Exploratory Data Analysis
-- [Small object detection system for a drone company](#-small-object-detection-model-for-an-australian-drone-company)
+- No-code Exploratory Data Analysis 
+- Small object detection system for a drone company
 - Template of customizable RAG framework to be fully hosted on GCP
 
 <br> My latest CV can be accessed here: <a href="assets/Resume_Vincent_Yunansan.pdf"> Curriculum Vitae</a> </br>
@@ -26,7 +30,32 @@ Have any questions? Below is my contact information:
 
 # Project Showcase
 
-## 🌾 Production optimization for an Australian commodity producer
+## No-code EDA platform
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+<details>
+<summary> Expand for details
+</summary>
+<br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
+
+
+<br> <b> Problem </b>: All data science project begins with a proper Exploratory Data Analysis (EDA) which can be repetitive and time consuming. Wouldn't it be nice if there is a tool that allow you to do simply click through, records all changes and output you've made a long the way, and gets you (mostly) there without coding?</br>
+<br><b> Solution </b>: This is a work in progress. @ksun5328 and I are building the end-to-end system to deliver this. Stay tuned! </br> 
+
+</br>
+
+<p align="center">
+  <video src="assets/EDA_sample.mov" width="560" height="360" controls>
+  </video>
+  <br>
+  WIP view of the no-code EDA platform   
+  <br>
+</p>
+
+</details>
+
+## Production optimization for an Australian commodity producer
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
@@ -44,7 +73,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## 🚁 Small object detection model for an Australian drone company
+## Small object detection model for an Australian drone company
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
@@ -64,11 +93,11 @@ Have any questions? Below is my contact information:
 <ol> 
 <li> Custom dataset: built on open-source datasets which has significant sample of small objects of interest. </li>
 <li> Optimized model: from multiple computer vision model architectures, including YOLO, Faster RCNN, SSD, and SAM. </li>
-<li> Hardware implementation: the chosen model has to be able to infer rapidly on-board the vehicle. </li> </ol> 
+<li> Inferencing optimization: we explored the use of SAHI to aid with small object detection in real time. </li> </ol> 
 </details>
 
 
-## 🛰 Multi-class object classification via transfer learning
+## Multi-class object classification via transfer learning
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
@@ -132,7 +161,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## 🩸Image Classification with BloodMNIST dataset
+## Image Classification with BloodMNIST dataset
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/FCNN-grey)
@@ -191,7 +220,7 @@ pre-processing and design.
 
 </details>
 
-## 🏦 Understanding debtor profiles
+## Understanding debtor profiles
 ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
 ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey)
