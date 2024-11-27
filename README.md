@@ -45,9 +45,8 @@ Have any questions? Below is my contact information:
 
 </br>
 
+[![WIP view of the no-code EDA platform](https://img.youtube.com/vi/-SRmdLSMb04/mqdefault.jpg)](https://youtu.be/-SRmdLSMb04)
 
-
-[![WIP view of the no-code EDA platform](https://img.youtube.com/vi/-SRmdLSMb04/maxresdefault.jpg)](https://youtu.be/-SRmdLSMb04)
 
 </details>
 
