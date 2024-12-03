@@ -14,7 +14,6 @@ I am most interested in building repeatable/scalable solutions to process large 
 
 <br><b> What I'm working on right now </b>: 
 - No-code Exploratory Data Analysis 
-- Small object detection system for a drone company
 - Template of customizable RAG framework to be fully hosted on GCP
 
 <br> My latest CV can be accessed here: <a href="assets/Resume_Vincent_Yunansan.pdf"> Curriculum Vitae</a> </br>
@@ -30,13 +29,10 @@ Have any questions? Below is my contact information:
 
 # Project Showcase
 
-## No-code EDA platform
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-<details>
-<summary> Expand for details
-</summary>
+## <font color="#1E90FF">No-code EDA platform</font>
+![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<details><summary>Expand for details</summary>
+<img src='https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white'>  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
 
 
@@ -50,7 +46,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## Production optimization for an Australian commodity producer
+## <font color="#1E90FF">Production optimization for an Australian commodity producer</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
@@ -59,7 +55,7 @@ Have any questions? Below is my contact information:
 <details>
 <summary> Expand for details
 </summary>
-<br> <i> <font color = "grey">Due to active non-disclosure agreement, details of this project is not made available in this repository. Details provided has been masked to protect confidentiality</i> </font> </br>
+<br> <i> <font color = "grey">Due to active non-disclosure agreement, details of this project is not made available in this repository. </i> </font> </br>
 <br> <b> Problem </b>: This project aims to implement a recommendation system to find combination of batches with highest market prices. The proposed combination has to satisfy 10 different quality metrics. These metrics can be improved by machine processes at a cost of lower output yields. The client has to process c.10,000 batches a year and react to price swings, machine down-time, etc.</br>
 <br><b> Solution </b>: Breadth first search (BFS) and Mixed Integer Linear Programming (MILP) were explored. The final optimization method sits somewhere between BFS and MILP by taking out combinations that are too expensive or impossible to produce, search for combinations in the remaining search space, and returns a list of possible batch combinations (without duplicates) in a descending list. </br> 
 
@@ -68,7 +64,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## Small object detection model for an Australian drone company
+## <font color="#1E90FF">Small object detection model for an Australian drone company</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
@@ -82,17 +78,25 @@ Have any questions? Below is my contact information:
 <details>
 <summary> Expand for details
 </summary>
-<br> <i> <font color = "grey">This is my Capstone Project for the MDS project at USYD. Due to active non-disclosure agreement, details of this project is not made available in this repository. Details provided has been masked to protect confidentiality.</i> </font> </br>
-<br> <b> Problem </b>: This project aims to implement an automated object detection system able to detect small distant object in outdoor conditions, to be installed on a small computer on-board the vehicle.</br>
-<br><b> This project is on-going. The solution can be divided into three branches </b>:   
-<ol> 
-<li> Custom dataset: built on open-source datasets which has significant sample of small objects of interest. </li>
-<li> Optimized model: from multiple computer vision model architectures, including YOLO, Faster RCNN, SSD, and SAM. </li>
-<li> Inferencing optimization: we explored the use of SAHI to aid with small object detection in real time. </li> </ol> 
+<br> <i> <font color = "grey">This is my Capstone Project for the MDS program at USYD. 
+<br>Due to active non-disclosure agreement, details of this project is not made available in this repository.</i> </font> </br>
+<br>This project aims to implement an automated object detection system able to detect small distant object in outdoor conditions, to be installed on a small computer on-board the vehicle. The proposed solution can be divided into three branches:</br>
+<br>
+<li> <b>Custom dataset</b>: built on open-source datasets which has significant sample of small objects of interest. </li>
+<li> <b>Optimized model</b>: from multiple computer vision model architectures, including YOLO, Faster RCNN, SSD, and SAM. </li>
+<li> <b>Inferencing optimization</b>: we explored the use of SAHI to aid with small object detection in real time. </li> </ol> 
+</br>
+
+
+<p align="center">
+  <img src="assets/SAHI_sample.png" height ="200">
+  <br>
+  Sample technique to solve the small object detection problem
+</p>
+
 </details>
 
-
-## Multi-class object classification via transfer learning
+## <font color="#1E90FF">Multi-class object classification via transfer learning</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
@@ -126,7 +130,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## ♾️ Multi-layer perceptron from scratch
+## <font color="#1E90FF">Multi-layer perceptron from scratch</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MLP-grey)
 ![Static Badge](https://img.shields.io/badge/Numpy-grey)
@@ -156,7 +160,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## Image Classification with BloodMNIST dataset
+## <font color="#1E90FF">Image Classification with BloodMNIST dataset</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/FCNN-grey)
@@ -215,7 +219,7 @@ pre-processing and design.
 
 </details>
 
-## Understanding debtor profiles
+## <font color="#1E90FF">Understanding debtor profiles</font>
 ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
 ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey)
