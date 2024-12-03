@@ -32,7 +32,6 @@ Have any questions? Below is my contact information:
 ## <font color="#1E90FF">No-code EDA platform</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <details><summary>Expand for details</summary>
-<img src='https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white'>  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
 
 
