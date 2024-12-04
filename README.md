@@ -51,12 +51,12 @@ Have any questions? Below is my contact information:
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap:10px">
   <div style="text-align: center;">
-    <img src="assets/EDA_input.gif" style="height: 200px;">
+    <img src="assets/EDA_input.gif" style="height: 180px;">
     <br>
     1. File upload and automatic problem detection
   </div>
   <div style="text-align: center;">
-    <img src="assets/EDA_distribution.gif" style="height: 200px;">
+    <img src="assets/EDA_distribution.gif" style="height: 180px;">
     <br>
     2. Check parameter distribution
   </div>
@@ -64,12 +64,12 @@ Have any questions? Below is my contact information:
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap:10px">
   <div style="text-align: center;">
-    <img src="assets/EDA_null.gif" style="height: 200px;">
+    <img src="assets/EDA_null.gif" style="height: 180px;">
     <br>
     3. Check null & duplicates (and delete if needed)
   </div>
   <div style="text-align: center;">
-    <img src="assets/EDA_transform.gif" style="height: 200px;">
+    <img src="assets/EDA_transform.gif" style="height: 180px;">
     <br>
     4. File upload and initial inspection
   </div>
@@ -77,7 +77,7 @@ Have any questions? Below is my contact information:
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap:20px">
   <div style="text-align: center;">
-    <img src="assets/EDA_log.gif" style="height: 200px;">
+    <img src="assets/EDA_log.gif" style="height: 180px;">
     <br>
     5. Save output CSV and log
   </div>
@@ -95,7 +95,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 
 <b>Problem</b>: The client does not have a system to identify what product to produce with their existing stock at any given moment, which creates a habit of over-delivering on product requirements. In other words, the raw output used in any given product are often of too high quality, leaving gross margins on the table. 
 
-<b>Output</b>: Breadth first search (BFS) and Mixed Integer Linear Programming (MILP) were explored. The final optimization algorithm sits somewhere between BFS and MILP by ignoring combinations that are too expensive or impossible to produce, searching for combinations in the remaining search space, and returning a list of possible batch combinations (without duplicates) in a descending list.
+<b>Output</b>: Breadth first search (BFS) and Mixed Integer Linear Programming (MILP) were explored. The final optimization algorithm sits somewhere between BFS and MILP by ignoring combinations that are too expensive or impossible to produce, searching for combinations in the remaining search space, and returning a list of possible batch combinations (without duplicates) in a descending list. A$15m of additional gross margins for a full year identified. 
 
 <b> Implementation </b>: The solution will be hosted on GCP with a Streamlit overlay. This allows site managers to schedule combination reports before they start their day, on-the cloud, with negligible infrastructure cost. Site managers can also produce custom reports when necessary.
 
@@ -137,7 +137,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 
 <br> <i> Details of this project can be accessed <a href="https://github.com/vyun8699/CNN-via-transfer-learning">here</a> </i></br>
 
-<br> <b> Problem </b>: Training a model from scratch requires massive computational resources not accessible to the common enthusiast. This project showcases methods to access open-source models and fine-tune them to solve a multi-class classification problem. </br>
+<br> This project aims at fine-tuning open-source models and fine-tune them to solve a multi-class classification problem for a specific task. </br>
 <br><b> Solution & Implementation </b>:   
 <ol> 
 <li> <b>Dataset</b>: 30,000 images with 18 classes are split into train and validation sets. </li>
