@@ -47,7 +47,12 @@ Have any questions? Below is my contact information:
 
 </br>
 
-
+<p float="left">
+  <img src="assets/EDA_input.gif" width="49%" />
+  <br> 1. File upload and automatic problem detection </br>
+  <img src="assets/EDA_distribution.gif" width="49%" /> 
+  <br> 2. Check parameter distribution </br>
+</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap:10px">
   <div style="text-align: center;">
