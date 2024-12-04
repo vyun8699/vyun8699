@@ -29,7 +29,7 @@ Have any questions? Below is my contact information:
 
 # Project Showcase
 
-## [No-code EDA platform](#){: style="color: #1E90FF;"}
+## <font color="dodgerblue">No-code EDA platform</font>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <details><summary>Expand for details</summary>
 <br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
@@ -45,7 +45,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## [Revenue optimization for an Australian commodity producer](#){: style="color: #1E90FF;"}
+## <span style="color: #1E90FF;">Revenue optimization for an Australian commodity producer</span>
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
