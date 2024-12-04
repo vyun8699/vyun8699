@@ -29,7 +29,7 @@ Have any questions? Below is my contact information:
 
 # Project Showcase
 
-## <font color="#1E90FF">No-code EDA platform</font>
+## [No-code EDA platform](#){: style="color: #1E90FF;"}
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <details><summary>Expand for details</summary>
 <br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
@@ -45,7 +45,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## <font color="#1E90FF">Production optimization for an Australian commodity producer</font>
+## [Revenue optimization for an Australian commodity producer](#){: style="color: #1E90FF;"}
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
@@ -54,13 +54,15 @@ Have any questions? Below is my contact information:
 <details>
 <summary> Expand for details
 </summary>
-<br> <i> <font color = "grey">Due to active non-disclosure agreement, details of this project is not made available in this repository. </i> </font> </br>
-<br> <b> Problem </b>: This project aims to implement a recommendation system to find combination of batches with highest market prices. The proposed combination has to satisfy 10 different quality metrics. These metrics can be improved by machine processes at a cost of lower output yields. The client has to process c.10,000 batches a year and react to price swings, machine down-time, etc.</br>
-<br><b> Solution </b>: Breadth first search (BFS) and Mixed Integer Linear Programming (MILP) were explored. The final optimization method sits somewhere between BFS and MILP by taking out combinations that are too expensive or impossible to produce, search for combinations in the remaining search space, and returns a list of possible batch combinations (without duplicates) in a descending list. </br> 
+<br> <i> [Due to active non-disclosure agreement, details of this project is not made available in this repository.](#){: style="color: #1E90FF;"} </i> </br>
 
-<br><b> Implementation </b>: The solution is hosted on GCP with a Streamlit overlay. This allows site managers to schedule combination reports before they start their day, on-the cloud, with negligible infrastructure cost. Site managers can also produce custom reports when necessary.
-</br>
-
+This project is done in tandem with a boutique consulting firm for an Australian commodity producer: 
+<ol>
+<li> <b>Background</b>: The client produces c.10,000 tons of raw output per year with 10 different quality metrics measured for individual batches. There are various finished products, each with their own market prices and quality specifications. </li>
+<li> <b>Problem</b>: The client does not have a system to identify what product to produce with their existing stock at any given moment, which creates a habit of over-delivering on product requirements. In other words, the raw output used in any given product are often of too high quality, leaving gross margins on the table. </li>
+<li> <b>Output</b>: Breadth first search (BFS) and Mixed Integer Linear Programming (MILP) were explored. The final optimization algorithm sits somewhere between BFS and MILP by ignoring combinations that are too expensive or impossible to produce, searching for combinations in the remaining search space, and returning a list of possible batch combinations (without duplicates) in a descending list. </br> 
+<li><b> Implementation </b>: The solution will be hosted on GCP with a Streamlit overlay. This allows site managers to schedule combination reports before they start their day, on-the cloud, with negligible infrastructure cost. Site managers can also produce custom reports when necessary. </li>
+</ol>
 </details>
 
 ## <font color="#1E90FF">Small object detection model for an Australian drone company</font>
