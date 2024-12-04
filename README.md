@@ -29,28 +29,20 @@ Have any questions? Below is my contact information:
 
 
 ## Project Showcase - Table of Contents
-1. [No-code Exploratory Data Analysis Platform](#no-code-exploratory-data-analysis-platform)
-2. [Revenue Optimization for Australian Commodity Producer](#revenue-optimization-for-an-australian-commodity-producer)
-3. [Small Object Detection Model](#small-object-detection-model-for-an-australian-drone-company)
-4. [Multi-class Object Classification](#multi-class-object-classification-via-transfer-learning)
-5. [Multi-layer Perceptron from Scratch](#multi-layer-perceptron-from-scratch)
-6. [Image Classification with BloodMNIST](#image-classification-with-bloodmnist-dataset)
-7. [Understanding Debtor Profiles](#understanding-debtor-profiles)
 
 | Project | Technologies |
 |---------|--------------|
-| [No-code Exploratory Data Analysis Platform](#no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
-| [Revenue Optimization for Australian Commodity Producer](#revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| [Small Object Detection Model](#small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
-| [Multi-class Object Classification](#multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| [Multi-layer Perceptron from Scratch](#multi-layer-perceptron-from-scratch) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| [Image Classification with BloodMNIST](#image-classification-with-bloodmnist-dataset) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| [Understanding Debtor Profiles](#understanding-debtor-profiles) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-
+| [No-code Exploratory Data Analysis Platform](#no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+| [Revenue Optimization for Australian Commodity Producer](#revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
+| [Small Object Detection Model](#small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) |
+| [Multi-class Object Classification](#multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white) ![Static Badge](https://img.shields.io/badge/GoogLeNet-grey) ![Static Badge](https://img.shields.io/badge/ResNext-grey) ![Static Badge](https://img.shields.io/badge/Shufflenet-grey) ![Static Badge](https://img.shields.io/badge/Efficientnet-grey) |
+| [Multi-layer Perceptron from Scratch](#multi-layer-perceptron-from-scratch) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/MLP-grey) ![Static Badge](https://img.shields.io/badge/Numpy-grey) |
+| [Image Classification with BloodMNIST](#image-classification-with-bloodmnist-dataset) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white) ![Static Badge](https://img.shields.io/badge/FCNN-grey) ![Static Badge](https://img.shields.io/badge/CNN-grey) ![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
+| [Understanding Debtor Profiles](#understanding-debtor-profiles) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) ![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
 
 ## No-code Exploratory Data Analysis Platform
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 
 <br> <i> This project began on 27 Nov 2024. Repository can be accessed  <a href="https://github.com/vyun8699/monkey_business">here.</a></i></br>
 
@@ -77,10 +69,7 @@ Have any questions? Below is my contact information:
 </p>
 
 ## Revenue optimization for an Australian commodity producer
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
-![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
-![Static Badge](https://img.shields.io/badge/MILP-grey)
+
 
 <br> <i> Due to active non-disclosure agreement, details of this project is not made available in this repository. </i> </br>
 
@@ -94,14 +83,6 @@ This project is done in tandem with a boutique consulting firm for an Australian
 
 
 ## Small object detection model for an Australian drone company
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/YOLO-grey)
-![Static Badge](https://img.shields.io/badge/SSD-grey)
-![Static Badge](https://img.shields.io/badge/FRCNN-grey)
-![Static Badge](https://img.shields.io/badge/SAM-grey)
-![Static Badge](https://img.shields.io/badge/Edge_hardware-white)
 
 <br> <i> <font color = "grey">This is my Capstone Project for the MDS program at USYD. 
 <br>Due to active non-disclosure agreement, details of this project is not made available in this repository.</i> </font> </br>
@@ -119,14 +100,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 </p>
 
 ## Multi-class object classification via transfer learning
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GoogLeNet-grey)
-![Static Badge](https://img.shields.io/badge/ResNext-grey)
-![Static Badge](https://img.shields.io/badge/Shufflenet-grey)
-![Static Badge](https://img.shields.io/badge/Efficientnet-grey)
+
 
 <br> <i> Details of this project can be accessed <a href="https://github.com/vyun8699/CNN-via-transfer-learning">here</a> </i></br>
 
@@ -148,9 +122,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 </p>
 
 ## Multi-layer perceptron from scratch
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MLP-grey)
-![Static Badge](https://img.shields.io/badge/Numpy-grey)
+
 
 <br> <i> <font color = "grey">Details of this project can be accessed <a href="https://github.com/vyun8699/MLP-from-scratch"> here</a> </font> </i></br>
 
@@ -172,12 +144,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 </p>
 
 ## Image Classification with BloodMNIST dataset
-![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white)
-![Static Badge](https://img.shields.io/badge/FCNN-grey)
-![Static Badge](https://img.shields.io/badge/CNN-grey)
-![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
-![Static Badge](https://img.shields.io/badge/SVM-grey)
+
 
 <br> <i> <font color = "grey">Report and workbook for this project can be accessed <a href="https://github.com/vyun8699/BloodMNIST_classification"> here</a> </font> </i></br>
 
@@ -215,12 +182,7 @@ This project is done in tandem with a boutique consulting firm for an Australian
 <b> Reflection </b>: Each algorithm has different use cases and trade-offs which should be considered. The choice of algorithm must be matched with the goal of the exercise itself. More complex algorithm may take longer to run and may not provide the best explanation/reasoning on feature importance.  Users need to consider what output needs to be generated to (i) measure the quality of the model, and (ii) provide useful insights when designing a model protocol. Simpler models may provide adequate outputs with lower computational costs (e.g., shorter runtimes) given the right pre-processing and design.
 
 ## Understanding debtor profiles
-![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Random_Forest-grey)
-![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey)
-![Static Badge](https://img.shields.io/badge/LDA-grey)
-![Static Badge](https://img.shields.io/badge/AdaBoost-grey)
-![Static Badge](https://img.shields.io/badge/SVM-grey)
+
 
 <br> <i> <font color = "grey">Report for this project can be accessed <a href="https://vyun8699.github.io/"> here</a> </font> </i></br>
 
