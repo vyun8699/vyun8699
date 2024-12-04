@@ -45,48 +45,24 @@ Have any questions? Below is my contact information:
 <br> <b> Problem </b>: All data science project begins with a proper Exploratory Data Analysis (EDA) which can be repetitive and time consuming. Wouldn't it be nice if there is a tool that allow you to do simply click through, records all changes and output you've made a long the way, and gets you (mostly) there without coding?</br>
 <br><b> Solution </b>: This is a work in progress. The final output will be coded in node.js to make it pretty, and partially automated to save user's time.  </br> 
 
-</br>
-
-<p float="left">
-  <img src="assets/EDA_input.gif" width="49%" />
-  <br> 1. File upload and automatic problem detection </br>
-  <img src="assets/EDA_distribution.gif" width="49%" /> 
-  <br> 2. Check parameter distribution </br>
+<br> 1. (Left) File upload and automatic problem detection, (Right) Check parameter distribution </br>
+<p align="left">
+<img src="assets/EDA_input.gif" width="45%"/> 
+  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; 
+<img src="assets/EDA_distribution.gif" width="45%" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap:10px">
-  <div style="text-align: center;">
-    <img src="assets/EDA_input.gif" style="height: 180px;">
-    <br>
-    1. File upload and automatic problem detection
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/EDA_distribution.gif" style="height: 180px;">
-    <br>
-    2. Check parameter distribution
-  </div>
-</div>
+<br> 2. (Left) Check and delete null & duplicates, (Right) Transform parameters </br>
+<p align="left">
+<img src="assets/EDA_null.gif" width="45%"/> 
+  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; 
+<img src="assets/EDA_transform.gif" width="45%" />
+</p>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap:10px">
-  <div style="text-align: center;">
-    <img src="assets/EDA_null.gif" style="height: 180px;">
-    <br>
-    3. Check null & duplicates (and delete if needed)
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/EDA_transform.gif" style="height: 180px;">
-    <br>
-    4. File upload and initial inspection
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between; align-items: center; gap:20px">
-  <div style="text-align: center;">
-    <img src="assets/EDA_log.gif" style="height: 180px;">
-    <br>
-    5. Save output CSV and log
-  </div>
-</div>
+<br> 3. Save output CSV and inspect change logs </br>
+<p align="left">
+<img src="assets/EDA_log.gif" width="45%"/> 
+</p>
 
 ## Revenue optimization for an Australian commodity producer
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
