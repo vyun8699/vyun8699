@@ -1,6 +1,11 @@
 # 🔭 Vincent Yunansan, MBA CFA 
 <div style="text-align: justify;">
 
+<style>
+H2{color:Blue !important;}
+</style>
+
+
 <div style="border: 1px solid #ccc; padding: 10px;">
 <b>Hi there!</b>
 <br>
@@ -29,7 +34,7 @@ Have any questions? Below is my contact information:
 
 # Project Showcase
 
-## $${\color{blue}No-code \space EDA \space platform}$$
+## No-code EDA Platform
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)  ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <details><summary>Expand for details</summary>
 <br> <i> <font color = "grey"> This project began on 27 Nov 2024. Repository can be accessed here <a href="https://github.com/vyun8699/monkey_business"> here</a> </font> </i></br>
@@ -45,7 +50,7 @@ Have any questions? Below is my contact information:
 
 </details>
 
-## <span style="color: #1E90FF;">Revenue optimization for an Australian commodity producer</span>
+## Revenue optimization for an Australian commodity producer
 ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/breadth_first_search-grey)
@@ -54,7 +59,7 @@ Have any questions? Below is my contact information:
 <details>
 <summary> Expand for details
 </summary>
-<br> <i> [Due to active non-disclosure agreement, details of this project is not made available in this repository.](#){: style="color: #1E90FF;"} </i> </br>
+<br> <i> Due to active non-disclosure agreement, details of this project is not made available in this repository. </i> </br>
 
 This project is done in tandem with a boutique consulting firm for an Australian commodity producer: 
 <ol>
