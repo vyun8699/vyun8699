@@ -1,10 +1,5 @@
 # 🔭 Vincent Yunansan, MBA CFA 
-<div style="text-align: justify;">
 
-<div style="border: 1px solid #ccc; padding: 10px;">
-<b>Hi there!</b>
-
-<br>
 
 I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. 
 I took the Master's in Data Science program at USYD as a career break to explore different problem sets in analytics and machine learning. 
@@ -19,8 +14,6 @@ Have any questions? Below is my contact information:
 - Phone &ensp;: +61459961345
 </br>
 
-</div>
-<br>
 
 
 ## Project Showcase - Table of Contents
@@ -36,10 +29,10 @@ Have any questions? Below is my contact information:
 | [Delinquent Debtor Identification with R](#understanding-debtor-profiles) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
 
-## No-code Exploratory Data Analysis Platform
+## ⭐ No-code Exploratory Data Analysis Platform
 
 
-<b> WORK IN PROGRESS (BEGINNING 27 Nov 2024). REPO CAN BE ACCESSED  <a href="https://github.com/vyun8699/monkey_business">[HERE]</a></b>
+> <b> WORK IN PROGRESS (BEGINNING 27 Nov 2024). REPO CAN BE ACCESSED  <a href="https://github.com/vyun8699/monkey_business">[HERE]</a></b>
 
 <b> Problem</b>: All data science project begins with a proper Exploratory Data Analysis (EDA) which can be repetitive and time consuming. Wouldn't it be nice if there is a tool that allow you to do simply click through, records all changes and output you've made a long the way, and gets you (mostly) there without coding?
 
@@ -67,11 +60,9 @@ Save output CSV and inspect change logs <br>
 <img src="assets/EDA_log.gif" width="48%"/> 
 </p>
 
-## Revenue optimization for an Australian commodity producer
+## ⭐ Revenue optimization for an Australian commodity producer
 
-<b> ACTIVE NDA - REPOSITORY IS PRIVATE (Sorry!)</b>
-
-
+> <b> ACTIVE NDA - REPOSITORY IS PRIVATE</b>
 
 <b>Problem</b>: This project is done together with a boutique consulting firm for an Australian commodity producer. The client produces c.10,000 tons of raw output per year with 10 different quality metrics measured for individual batches. There are various finished products, each with their own quality requirements and market prices, which swings based on supply-demand.The client does not have a system to identify what product to produce with their existing stock at any given moment, which creates a habit of over-delivering on product requirements. In other words, the raw output used in any given product are often of too high quality, leaving gross margins on the table. 
 
@@ -80,9 +71,9 @@ Save output CSV and inspect change logs <br>
 <b> Impact </b>: A$15m of additional gross margins for a full year identified.  The solution will be hosted on GCP with a Streamlit overlay. This allows site managers to schedule combination reports before they start their day, on-the cloud, with negligible infrastructure cost. Site managers can also produce custom reports when necessary.
 
 
-## Small object detection model for an Australian drone company
+## ⭐ Small object detection model for an Australian drone company
 
-<b> ACTIVE NDA - REPOSITORY IS PRIVATE (Sorry!)</b>
+><b> ACTIVE NDA - REPOSITORY IS PRIVATE</b>
 
 <b>Problem</b>: This project aims to implement an automated object detection system to detect small & distant object in the horizon. The model will be ran locally on the small computer on-board the drone. The system is expected to function in all weather conditions, given enough natural light. 
 
@@ -106,9 +97,9 @@ Small object detection with SAHI <br>
 <img src="assets/yolov8_infer_sahi.gif" width="95%"/> 
 </p>
 
-## Multi-class object classification via transfer learning
+## ⭐ Multi-class object classification via transfer learning
 
-<b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/CNN-via-transfer-learning">[HERE]</a> </b></br>
+><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/CNN-via-transfer-learning">[HERE]</a> </b></br>
 <b> TABLEAU DASHBOARD CAN BE ACCESSED <a href="https://public.tableau.com/app/profile/vincent.yunansan/viz/log_analyzer/Dashboard3?publish=yes">[HERE]</a> </b></br>
 
 <b> Problem</b>: This project aims at fine-tuning open-source models to solve a multi-class classification problem. Training dataset consists of 30,000 images with 18 classes. 
@@ -125,9 +116,9 @@ Small object detection with SAHI <br>
 
 
 
-## Multi-layer perceptron from scratch with Numpy
+## ⭐ Multi-layer perceptron from scratch with Numpy
 
-<b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/MLP-from-scratch"> [HERE]</a></b>
+><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/MLP-from-scratch"> [HERE]</a></b>
 
 <b> Problem</b>: Machine learning libraries often pack multiple mechanisms into a single function, which makes it hard to discern what happens underneath. 
 
@@ -146,9 +137,9 @@ Summary below:
   <img src="assets/MLP_appendix.png" height ="300">
 </p>
 
-## Image Classification with BloodMNIST dataset
+## ⭐ Image Classification with BloodMNIST dataset
 
-<b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/BloodMNIST_classification"> [HERE] </a></b>
+><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/BloodMNIST_classification"> [HERE] </a></b>
 
 <b> Problem </b>: This study compares FCNN, CNN, Random Forest, and Support Vector Machine for blood cell image classification. The dataset used contain 17,000+ images of blood cells, resized to 28x28 pixels. The images are split into 8 classes as shown below:
 
@@ -175,9 +166,9 @@ Summary below:
 </p>
 
 
-## Delinquent Debtor Identification with R
+## [⭐ Delinquent Debtor Identification with R](https://vyun8699.github.io/)
 
-<b> REPO CAN BE ACCESSED <a href="https://vyun8699.github.io/"> [HERE]</a> </font></b>
+><b> REPO CAN BE ACCESSED <a href="https://vyun8699.github.io/"> [HERE]</a> </font></b>
 
 <b> Problem </b>: This project identifies potential delinquent debtors based on their features in their initial debt application.
 
