@@ -20,19 +20,16 @@ Have any questions? Below is my contact information:
 
 | Project | Tools and models |
 |---------|--------------|
-| [No-code EDA Platform](#no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-| [Revenue Optimization with Batching](#revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/BFS-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
-| [Small Object Detection for a Drone](#small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) <br>![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAHI-grey)  |
-| [Multi-class Object Classification](#multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/GoogLeNet-grey) ![Static Badge](https://img.shields.io/badge/ResNext-grey) ![Static Badge](https://img.shields.io/badge/Shufflenet-grey) ![Static Badge](https://img.shields.io/badge/Efficientnet-grey) |
-| [Multi-layer Perceptron from Scratch with Numpy](#multi-layer-perceptron-from-scratch) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/MLP-grey) ![Static Badge](https://img.shields.io/badge/Numpy-grey) |
-| [Image Classification with BloodMNIST](#image-classification-with-bloodmnist-dataset) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) <br> ![Static Badge](https://img.shields.io/badge/FCNN-grey) ![Static Badge](https://img.shields.io/badge/CNN-grey) ![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
+| [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+| [Revenue Optimization with Batching](#-revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/BFS-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
+| [Small Object Detection for a Drone](#-small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) <br>![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAHI-grey)  |
+| [Multi-class Object Classification](#-multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/GoogLeNet-grey) ![Static Badge](https://img.shields.io/badge/ResNext-grey) ![Static Badge](https://img.shields.io/badge/Shufflenet-grey) ![Static Badge](https://img.shields.io/badge/Efficientnet-grey) |
+| [Multi-layer Perceptron from Scratch with Numpy](#-multi-layer-perceptron-from-scratch-with-numpy) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/MLP-grey) ![Static Badge](https://img.shields.io/badge/Numpy-grey) |
+| [Image Classification with BloodMNIST](#-image-classification-with-bloodmnist-dataset) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) <br> ![Static Badge](https://img.shields.io/badge/FCNN-grey) ![Static Badge](https://img.shields.io/badge/CNN-grey) ![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 | [Delinquent Debtor Identification with R](#-delinquent-debtor-identification-with-r) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
 
-## ⭐ No-code Exploratory Data Analysis Platform
-
-
-> <b> WORK IN PROGRESS (BEGINNING 27 Nov 2024). REPO CAN BE ACCESSED  <a href="https://github.com/vyun8699/monkey_business">[HERE]</a></b>
+## [⭐ No-code Exploratory Data Analysis Platform](https://github.com/vyun8699/monkey_business)
 
 <b> Problem</b>: All data science project begins with a proper Exploratory Data Analysis (EDA) which can be repetitive and time consuming. Wouldn't it be nice if there is a tool that allow you to do simply click through, records all changes and output you've made a long the way, and gets you (mostly) there without coding?
 
@@ -97,10 +94,9 @@ Small object detection with SAHI <br>
 <img src="assets/yolov8_infer_sahi.gif" width="95%"/> 
 </p>
 
-## ⭐ Multi-class object classification via transfer learning
+## [⭐ Multi-class object classification via transfer learning](https://github.com/vyun8699/CNN-via-transfer-learning)
 
-><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/CNN-via-transfer-learning">[HERE]</a> </b></br>
-<b> TABLEAU DASHBOARD CAN BE ACCESSED <a href="https://public.tableau.com/app/profile/vincent.yunansan/viz/log_analyzer/Dashboard3?publish=yes">[HERE]</a> </b></br>
+><b> TABLEAU DASHBOARD CAN BE ACCESSED <a href="https://public.tableau.com/app/profile/vincent.yunansan/viz/log_analyzer/Dashboard3?publish=yes">[HERE]</a> </b></br>
 
 <b> Problem</b>: This project aims at fine-tuning open-source models to solve a multi-class classification problem. Training dataset consists of 30,000 images with 18 classes. 
 
@@ -116,9 +112,7 @@ Small object detection with SAHI <br>
 
 
 
-## ⭐ Multi-layer perceptron from scratch with Numpy
-
-><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/MLP-from-scratch"> [HERE]</a></b>
+## [⭐ Multi-layer perceptron from scratch with Numpy](https://github.com/vyun8699/MLP-from-scratch)
 
 <b> Problem</b>: Machine learning libraries often pack multiple mechanisms into a single function, which makes it hard to discern what happens underneath. 
 
@@ -137,9 +131,9 @@ Summary below:
   <img src="assets/MLP_appendix.png" height ="300">
 </p>
 
-## ⭐ Image Classification with BloodMNIST dataset
+## [⭐ Image Classification with BloodMNIST dataset](https://github.com/vyun8699/BloodMNIST_classification)
 
-><b> REPO CAN BE ACCESSED <a href="https://github.com/vyun8699/BloodMNIST_classification"> [HERE] </a></b>
+
 
 <b> Problem </b>: This study compares FCNN, CNN, Random Forest, and Support Vector Machine for blood cell image classification. The dataset used contain 17,000+ images of blood cells, resized to 28x28 pixels. The images are split into 8 classes as shown below:
 
@@ -168,7 +162,7 @@ Summary below:
 
 ## [⭐ Delinquent Debtor Identification with R](https://vyun8699.github.io/)
 
-><b> REPO CAN BE ACCESSED <a href="https://vyun8699.github.io/"> [HERE]</a> </font></b>
+
 
 <b> Problem </b>: This project identifies potential delinquent debtors based on their features in their initial debt application.
 
