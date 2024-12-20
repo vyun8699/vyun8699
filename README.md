@@ -20,7 +20,7 @@ Have any questions? Below is my contact information:
 
 | Project | Tools and models |
 |---------|--------------|
-| [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+| [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white) ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render&logoColor=white)
 | [Revenue Optimization with Batching](#-revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/BFS-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
 | [Small Object Detection for a Drone](#-small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) <br>![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAHI-grey)  |
 | [Multi-class Object Classification](#-multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/GoogLeNet-grey) ![Static Badge](https://img.shields.io/badge/ResNext-grey) ![Static Badge](https://img.shields.io/badge/Shufflenet-grey) ![Static Badge](https://img.shields.io/badge/Efficientnet-grey) |
@@ -29,32 +29,41 @@ Have any questions? Below is my contact information:
 | [Delinquent Debtor Identification with R](#-delinquent-debtor-identification-with-r) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
 
-## [⭐ No-code Exploratory Data Analysis Platform](https://github.com/vyun8699/monkey_business)
+## [⭐ No-code Exploratory Data Analysis Platform](https://github.com/vyun8699/NoCodeEDA)
+
+> <b> Web version can be accessed [here](https://vyun8699.github.io/NoCodeEDA/).</b>
+> Please give me a heads up if you are going to use this link as flask server is hosted on the free version of render.com, which switches off after some time of inactivity. 
 
 <b> Problem</b>: All data science project begins with a proper Exploratory Data Analysis (EDA) which can be repetitive and time consuming. Wouldn't it be nice if there is a tool that allow you to do simply click through, records all changes and output you've made a long the way, and gets you (mostly) there without coding?
 
-<b> Solution</b>: We are creating a no-code platform which handles pre-processing semi-autonomously. The final output will be coded in node.js to make it pretty, and partially automated to save user's time.  
+<b> Solution</b>: I am creating a modular no-code platform to handle pre-processing for CSV files. 
+<ol>
+  <li> <b>Front-end</b>: ReactJS, hosted on github. Cline for javascript coding support.
+  <li> <b>Back-end</b>: Python server with Flask, hosted on render.com (free tier).
+</ol>
 
-<b> Progress</b>: Some screenshot of current functionalities in Streamlit shown below. 
+See some screenshot of current functionalities below:
 
 <p align="center">
-<b>(Left)</b> File upload and automatic problem detection, <b>(Right)</b> Check parameter distribution <br>
-<img src="assets/EDA_input.gif" width="48%"/> 
-  &nbsp;&nbsp;&nbsp;
-<img src="assets/EDA_distribution.gif" width="48%" />
+<br><b>(Left)</b> Upload CSV and inspect summary, <b>(Right)</b> Choose relevant parameters<br>
+<img src="assets/EDA_input_inspect.gif" width="48%"/> 
+  &nbsp;&nbsp;&nbsp; 
+<img src="assets/EDA_head_tick.gif" width="48%" />
 </p>
  
 <p align="center">
-<br><b>(Left)</b> Check and delete null & duplicates, <b>(Right)</b> Transform parameters <br>
-<img src="assets/EDA_null.gif" width="48%"/> 
+<br><b>(Left)</b> Create custom visualization, <b>(Right)</b> Transform parameters <br>
+<img src="assets/EDA_custom_viz.gif" width="48%"/> 
   &nbsp;&nbsp;&nbsp; 
 <img src="assets/EDA_transform.gif" width="48%" />
 </p>
 
 
 <p align="center">
-Save output CSV and inspect change logs <br>
-<img src="assets/EDA_log.gif" width="48%"/> 
+<br><b>(Left)</b> View correlation and PCA plots, <b>(Right)</b> Check transformation log and save CSV <br>
+<img src="assets/EDA_corr_PCA.gif" width="48%"/> 
+  &nbsp;&nbsp;&nbsp; 
+<img src="assets/EDA_save.gif" width="48%" />
 </p>
 
 ## ⭐ Revenue optimization for an Australian commodity producer
