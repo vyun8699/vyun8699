@@ -19,7 +19,7 @@
 
 | Project | Tools and models |
 |---------|--------------|
-| [Bible Chatbot (RAG model)](#-bible-chat-bot)| ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Chroma](https://img.shields.io/badge/-Chroma-blue?style=flat&logo=Chroma&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+| [Biblechats (Bible Based RAG Model)](#-bible-chat-bot)| ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Chroma](https://img.shields.io/badge/-Chroma-blue?style=flat&logo=Chroma&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
 | [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white) ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render&logoColor=white) |
 | [Revenue Optimization with Batching](#-revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/BFS-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
 | [Small Object Detection for a Drone](#-small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) <br>![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAHI-grey)  |
@@ -29,8 +29,7 @@
 | [Delinquent Debtor Identification with R](#-delinquent-debtor-identification-with-r) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
 
-
-## [⭐ Bible Chatbot](https://github.com/vyun8699/bible_RAG)
+## [⭐ Biblechats (Bible Based RAG Model)](https://github.com/vyun8699/bible_RAG)
 > <b> Web version can be accessed [here](https://biblechats.streamlit.app/).</b>
 
 <b> What is this</b>: This Retrieval-Augmented Generation (RAG) model explores the contents of the KJV holy bible. 
