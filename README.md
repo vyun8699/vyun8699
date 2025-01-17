@@ -1,17 +1,16 @@
 # 🔭 Vincent Yunansan, MBA CFA 
 
+- I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science.  
 
-I'm a former investment banking and private equity professional with over 7 years of experience who has taken the leap into the world of data science. 
-I took the Master's in Data Science program at USYD as a career break to explore different problem sets in analytics and machine learning. 
+- I recently completed the Master of Data Science program at USYD to explore topics of personal interest, such as automation, analytics, language models, and machine learning. 
+ 
+- I am most interested in building repeatable/scalable solutions to process large amounts of data while maintaining simplicity. 
 
-I am most interested in building repeatable/scalable solutions to process large amounts of data while maintaining simplicity. 
+## Curriculum Vitae and Contact Information
 
- My latest CV can be accessed here: <a href="assets/Resume_Vincent_Yunansan.pdf"> Curriculum Vitae</a> 
+- Curriculum Vitae&ensp;: <a href="assets/Resume_Vincent_Yunansan.pdf"> Link</a> 
 
-
-Have any questions? Below is my contact information:
-- Email &ensp;&ensp;: vincent.yunansan@gmail.com  
-- Phone &ensp;: +61459961345
+- Email address&ensp;&ensp;&ensp;&ensp;: vincent.yunansan@gmail.com
 </br>
 
 
@@ -20,7 +19,8 @@ Have any questions? Below is my contact information:
 
 | Project | Tools and models |
 |---------|--------------|
-| [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white) ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render&logoColor=white)
+| [Bible Chatbot (RAG model)](#-bible-chat-bot)| ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Chroma](https://img.shields.io/badge/-Chroma-blue?style=flat&logo=Chroma&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
+| [No-code EDA Platform](#-no-code-exploratory-data-analysis-platform) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=white) ![Render](https://img.shields.io/badge/-Render-black?style=flat&logo=render&logoColor=white) |
 | [Revenue Optimization with Batching](#-revenue-optimization-for-an-australian-commodity-producer) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-yellow?style=flat&logo=Google&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/BFS-grey) ![Static Badge](https://img.shields.io/badge/MILP-grey) |
 | [Small Object Detection for a Drone](#-small-object-detection-model-for-an-australian-drone-company) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-TensorFlow-red?style=flat&logo=tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/Edge_hardware-white) <br>![Static Badge](https://img.shields.io/badge/YOLO-grey) ![Static Badge](https://img.shields.io/badge/SSD-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAM-grey) ![Static Badge](https://img.shields.io/badge/FRCNN-grey) ![Static Badge](https://img.shields.io/badge/SAHI-grey)  |
 | [Multi-class Object Classification](#-multi-class-object-classification-via-transfer-learning) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Pytorch-orange?style=flat&logo=pytorch&logoColor=white) ![Pytorch](https://img.shields.io/badge/-Google_Colab-yellow?style=flat&logo=googlecolab&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/GoogLeNet-grey) ![Static Badge](https://img.shields.io/badge/ResNext-grey) ![Static Badge](https://img.shields.io/badge/Shufflenet-grey) ![Static Badge](https://img.shields.io/badge/Efficientnet-grey) |
@@ -28,6 +28,29 @@ Have any questions? Below is my contact information:
 | [Image Classification with BloodMNIST](#-image-classification-with-bloodmnist-dataset) | ![Python](https://img.shields.io/badge/-Python-Green?style=flat&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-FF0000?style=flat&logo=keras&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-FF0000?style=flat&logo=tableau&logoColor=white) <br> ![Static Badge](https://img.shields.io/badge/FCNN-grey) ![Static Badge](https://img.shields.io/badge/CNN-grey) ![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 | [Delinquent Debtor Identification with R](#-delinquent-debtor-identification-with-r) | ![R](https://img.shields.io/badge/-R_Studio-blue?style=flat&logo=r&logoColor=white) <br>![Static Badge](https://img.shields.io/badge/Random_Forest-grey) ![Static Badge](https://img.shields.io/badge/Logistic_Regression-grey) ![Static Badge](https://img.shields.io/badge/LDA-grey) ![Static Badge](https://img.shields.io/badge/AdaBoost-grey) ![Static Badge](https://img.shields.io/badge/SVM-grey) |
 
+
+
+## [⭐ Bible Chatbot](https://github.com/vyun8699/bible_RAG)
+> <b> Web version can be accessed [here](https://biblechats.streamlit.app/).</b>
+
+<b> What is this</b>: This Retrieval-Augmented Generation (RAG) model explores the contents of the KJV holy bible. 
+The holy bible is very usable for this exercise as the texts are already naturally chunked by <b>books-chapters-verses</b>. 
+
+<b> What is so cool about it </b>: The chatbot remembers the context of user questions and system answers, allowing the user to ask follow up questions. At each turn, the system gives answers derived from the corpus, along with its supporting verses. 
+
+Build details below:
+
+<ol>
+<li> <b> Model</b>: `chat-gpt-4o-mini` via langchain with temperature set to 0.
+<li> <b> Corpus</b>: the KJV bible where each verse is a chunk. 
+<li> <b> Back-end</b>: Embeddings hosted in a chromadb persistent directory, uploaded onto Github with LFS.
+<li> <b> Front-end</b>: Streamlit for quick turnaround.
+</ol>
+
+<p align="center">
+<br> biblechats in action! <br>
+<img src="assets/biblechats.gif" width="80%"/> 
+</p>
 
 ## [⭐ No-code Exploratory Data Analysis Platform](https://github.com/vyun8699/NoCodeEDA)
 
@@ -94,7 +117,7 @@ See some screenshot of current functionalities below:
 
 
 <p align="center">
-  Detection of small objects on YOLOV8-m <b>(Left)</b> without SAHI and <b>(Right)</b> with SAHI 
+  Detection of small objects on YOLOV8-m <b>(Left)</b> without SAHI and <b>(Right)</b> with SAHI <br>
   <img src="assets/SAHI_sample.png" height ="200">
 </p>
 
@@ -114,9 +137,10 @@ Small object detection with SAHI <br>
 <b>Impact</b>: The resulting model yielded 90%+ test F1 score with 5-hour traning runtime.
 
 <p align="center">
-  <img src="assets/regnetfeaturemap.png" height ="300">
   <br>
-  Sample Feature Map Representation of RegNet
+  Sample Feature Map Representation of RegNet <br>
+  <img src="assets/regnetfeaturemap.png" height ="300">
+  
 </p>
 
 
@@ -135,7 +159,7 @@ Multiple parameters were tested against the training dataset.
 Summary below: 
 
 <p align="center">
-  <b> (Left - Right) </b> Experiment stages <br>
+  <b> (Left to Right) </b> Experiment stages 
   <b> (Highlight) </b> Parameters in hyperparameter tuning <br>
   <img src="assets/MLP_appendix.png" height ="300">
 </p>
@@ -147,10 +171,9 @@ Summary below:
 <b> Problem </b>: This study compares FCNN, CNN, Random Forest, and Support Vector Machine for blood cell image classification. The dataset used contain 17,000+ images of blood cells, resized to 28x28 pixels. The images are split into 8 classes as shown below:
 
 <p align="center">
+  Description of classes in BloodMNIST   <br>
   <img src="assets/BloodMNIST_class.png" height ="500">
-  <br>
-  Description of classes in BloodMNIST   
-  <br>
+
 </p>
 
 <b> Results </b>: 
